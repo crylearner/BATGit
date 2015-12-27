@@ -1,0 +1,3 @@
+git clone https://android.googlesource.com/platform/packages/apps/Browser
+git clone https://android.googlesource.com/platform/packages/apps/Phone
+git clone https://android.googlesource.com/platform/packages/apps/HTMLViewer
